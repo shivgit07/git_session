@@ -1,6 +1,6 @@
 ﻿# git_session
 ## git commands for new repo
-  `git init`
+  `git init`                                 <br/>
   `git add README.md`
   `git commit -m "first commit"`
   `git branch -M main`
