@@ -6,6 +6,7 @@
   `git branch -M main`<br/>
   `git remote add origin https://github.com/shivgit07/gitse.git`<br/>
   `git push -u origin main`<br/>
+  `git push -f origin main` - force push <br/>
 
 ### to clone a repo to local 
   `git clone https://github.com/aastha51551/TSS-2023.git`<br/>
