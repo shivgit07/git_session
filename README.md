@@ -7,6 +7,9 @@
   `git remote add origin https://github.com/shivgit07/gitse.git`<br/>
   `git push -u origin main`<br/>
 
+### to clone a repo to local 
+  `git clone https://github.com/aastha51551/TSS-2023.git`<br/>
+  
 ### commands for branches
   `git branch`     - to see all branches<br/>
   `git branch -a`  - to see remote branches<br/>
