@@ -15,6 +15,7 @@
   `git branch`     - to see all branches<br/>
   `git branch -a`  - to see remote branches<br/>
   `git checkout 'branch'`  - to switch to desired 'branch'<br/>
+  `git checkout -b 'branch'`  - to make a new 'branch'<br/>
 
 ### If local repo is showing only 1 branch 
   `git pull origin "name of the branch to be pulled"`<br/>
